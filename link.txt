@@ -1,5 +1,0 @@
-https://anonystick.com/blog-developer/javascript-currying-in-javascript-2019050935248071.jsx
-https://anonystick.com/blog-developer/higher-order-functions-in-javascript-201905107183914
-https://anonystick.com/blog-developer/immutability-js-functional-programming-2021070334816360
-https://anonystick.com/blog-developer/discuss-about-closures-in-javascript-2019051695927961
-https://www.youtube.com/watch?v=tiAlSpyWIDs
